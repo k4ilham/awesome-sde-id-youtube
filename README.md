@@ -23,7 +23,9 @@
 
 ## A
 
-+
++ Angga Risky: [angga risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
++ Abdul Aziz Ahwan: [abdul aziz ahwan](https://www.youtube.com/channel/UCQUfwiydQHf0u4Gb6uT-hyA)
++ Agit Naeta: [agit naeta](https://www.youtube.com/channel/UC2ZwPrUbjBcAbk9qem810rA)
 
 ## B
 +
@@ -50,12 +52,13 @@
 
 ## H
 
-+
++ Haerul Muttaqin: [haerul muttaqin](https://www.youtube.com/channel/UCFOcbpcqG-f7Ootft8zKWzw/videos)
 
 ## I
 
 + IDStack: [idstack](https://youtube.com/@idstack)
 + Ihwan: [ihwan](https://youtube.com/@ihwan)
++ Indonesia Belajar: [indonesia belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
 
 ## J
 
@@ -92,7 +95,7 @@
 
 ## R
 
-+ 
++ Robby Dianputra: [bagicode](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
 
 ## S
 
