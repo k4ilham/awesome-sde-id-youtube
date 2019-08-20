@@ -1,6 +1,6 @@
 # awesome-sde-id-youtube
 
-😎 Daftar akun Youtube.com keren dari para pegiat software engineering di Indonesia
+😎 Daftar akun Youtube keren dari para pegiat software engineering di Indonesia
 
 ## Navigasi Berdasar Abjad
 
@@ -23,9 +23,13 @@
 
 ## A
 
++ Agung Setiawan: [IDRails](https://www.youtube.com/channel/UClYSachcLCPcKdvZw6iE4qw)
 + Angga Risky: [angga risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 + Abdul Aziz Ahwan: [abdul aziz ahwan](https://www.youtube.com/channel/UCQUfwiydQHf0u4Gb6uT-hyA)
 + Agit Naeta: [agit naeta](https://www.youtube.com/channel/UC2ZwPrUbjBcAbk9qem810rA)
++ Artivisi Media: [Endi Muhardin](https://www.youtube.com/channel/UC3oNtvY3sETKZU7wEQyePQQ)
++ Azhar Rivaldi: [azhar rivaldy](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
++ Azis Seno : [Siza](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
 
 ## B
 +
@@ -40,7 +44,8 @@
 
 ## E
 
-+
++ Erico Darmawan Handoyo: [Erico Darmawan Handoyo](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
++ Eko Kurniawan Khannedy: [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 
 ## F
 
