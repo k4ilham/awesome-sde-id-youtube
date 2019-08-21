@@ -32,20 +32,22 @@
 + Azis Seno : [Siza](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
 
 ## B
-+
++ BuildWith Angga : [angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
 
 ## C
 
-+
++ Cybereye Comunnity : [cybereye](https://www.youtube.com/channel/UCZbsWQGnHQQxLFFyLsuEF_g)
 
 ## D
 
-+
++ Daeng Web : [daeng](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww)
++ Devindo : [cybereye](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
 
 ## E
 
 + Erico Darmawan Handoyo: [Erico Darmawan Handoyo](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
 + Eko Kurniawan Khannedy: [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
++ Ega Radiegtya: [ega](https://www.youtube.com/channel/UCOh-ds8EPfG8AzZOmgFRUiA)
 
 ## F
 
@@ -53,17 +55,21 @@
 
 ## G
 
-+
++ Galih Pratama: [Galih](https://www.youtube.com/channel/UClWBVXTagK9stScJlsHeEGA)
++ Guntur Budi: [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
 
 ## H
 
-+ Haerul Muttaqin: [haerul muttaqin](https://www.youtube.com/channel/UCFOcbpcqG-f7Ootft8zKWzw/videos)
++ Haerul Muttaqin: [haerul muttaqin](https://www.youtube.com/channel/UCFOcbpcqG-f7Ootft8zKWzw)
++ Haidar Afif Maulana: [haidar](https://www.youtube.com/channel/UC9XfZRM3OrOYci7ZLD6sU-A)
++ Hendra Setiawan: [hendra](https://www.youtube.com/channel/UCwFN8mv31_M8quDQvAsgo1Q)
 
 ## I
 
 + IDStack: [idstack](https://youtube.com/@idstack)
 + Ihwan: [ihwan](https://youtube.com/@ihwan)
 + Indonesia Belajar: [indonesia belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
++ idr corner: [idrcorner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
 
 ## J
 
@@ -71,11 +77,15 @@
 
 ## K
 
-+
++ Kawan Koding: [kawankoding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
++ Kelas Terbuka: [idrcorner](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
+
 
 ## L
 
-+
++ Laravel Youtube: [laravelyt](https://www.youtube.com/channel/UCT_1pPaTXKEl4ZpJQuxaRzg)
++ Lazday Indonesia: [lazday](https://www.youtube.com/channel/UCnJFFAhsxC1DWrJqySPPAIw)
++ LeenuksID: [leenuksid](https://www.youtube.com/channel/UCUvXjaQRdHcptVbGoQ_Dkkg)
 
 ## M
 
@@ -91,8 +101,7 @@
 
 ## P
 
-+
-
++ Petani Kode: [petanikode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
 
 ## Q
 
