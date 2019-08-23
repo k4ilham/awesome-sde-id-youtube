@@ -97,7 +97,7 @@
 
 ## O
 
-+
++ Onno Center: [onno](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig)
 
 ## P
 
@@ -110,10 +110,11 @@
 ## R
 
 + Robby Dianputra: [bagicode](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
++ Rizal Hilman: [rz.khilman](https://www.youtube.com/channel/UCL6gpc5cX0Ku5-WzIaYO-aQ)
 
 ## S
 
-+
++ Sekolah Koding: [sk](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ## T
 
@@ -129,7 +130,7 @@
 
 ## W
 
-+
++ Web Programming Unpas [wpu](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
 
 ## X
 +
